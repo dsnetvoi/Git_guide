@@ -1,5 +1,6 @@
 # Comment
-*.TXT
+tempfile.TXT
+tempfile2.TXT
 .DS_Store
 *.zip
 *.gz
